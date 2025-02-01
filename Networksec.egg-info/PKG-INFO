@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: Networksec
+Version: 0.0.1
+Summary: A package for building a ML project
+Author: Bhargavaa
+Author-email: g.bhargavaa@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
